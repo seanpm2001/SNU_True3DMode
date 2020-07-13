@@ -1,0 +1,6 @@
+noMore = input("This file is for COMMENTS ONLY. Do NOT run this file, there is no point. Press [ENTER] key to close")
+'''
+True 3D mode
+
+True 3D mode is the same thing as 3D mode, except it works with 3D glasses
+'''
